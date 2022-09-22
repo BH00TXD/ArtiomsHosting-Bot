@@ -10,6 +10,8 @@ client.commands = new Discord.Collection();
 client.events = new Discord.Collection();
 client.auth = new Discord.Collection();
 
+// Testing something
+
 global.userData = new db.table("userData");
 global.serverCount = new db.table("FreeServerCount");
 global.invinfo = new db.table("InviteInfo");

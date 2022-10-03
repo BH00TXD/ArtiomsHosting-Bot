@@ -107,11 +107,11 @@
         "myIp": "your house ip",
         "host": "https://panel.something.host",
         "adminApiKey": "Your application api key",
-        "clientAPI":"Yout client api key (built by an admin)"
+        "clientAPI":"Your client api key (built by an admin)"
     },
     "nginxPM": {
         "host": "https://Nginxproxymanager.com",
-        "email": "Yout email to login to the proxy manage",
+        "email": "Your email to login to the proxy manage",
         "pass": "Yout password to login to the proxy manage"
     }
 }
